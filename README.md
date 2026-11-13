@@ -39,6 +39,14 @@ Aspiring Cybersecurity Analyst | Google Cybersecurity Professional Certificate G
 - Identified the use of HTTP and DNS protocols during website access, malware delivery, and malicious redirection.
 - Evaluated authentication security weaknesses and recommended preventive controls, including login throttling and multi-factor authentication.
 - [View Activity](https://github.com/JerwinUsac09/github-portfolio/tree/main/activities/network-analysis/website-brute-force-malware-analysis)
+
+  
+### Network Security Hardening Assessment
+- Evaluated a simulated data breach involving weaknesses in employee authentication, database credentials, and firewall configurations.
+- Identified security gaps involving shared passwords, default administrator credentials, missing firewall rules, and the absence of multi-factor authentication.
+- Recommended security hardening measures, including MFA, stronger password policies, and inbound and outbound firewall filtering.
+- [View Activity](https://github.com/JerwinUsac09/github-portfolio/tree/main/activities/network-security-hardening-assessment)
+
   
 ## 📄 Certifications and Training
 
