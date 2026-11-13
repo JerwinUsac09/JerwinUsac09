@@ -20,18 +20,11 @@ Aspiring Cybersecurity Analyst | Google Cybersecurity Professional Certificate G
 
 ## 🛠️ Technical Activities
 
-### DNS and ICMP Traffic Analysis
-- Analyzed network traffic using tcpdump to investigate a DNS connectivity issue.
-- Identified ICMP Destination Unreachable messages involving UDP port 53.
-- Demonstrated understanding of DNS, UDP, ICMP, and basic network troubleshooting.
-- [View Activity](https://github.com/JerwinUsac09/github-portfolio/tree/main/activities/network-analysis/dns-icmp-traffic-analysis)
-
-### TCP SYN Flood Attack Analysis
-
-- Analyzed a simulated TCP SYN flood incident affecting a company's web server.
-- Explained the TCP three-way handshake and how half-open connections can exhaust server resources.
-- Identified mitigation strategies, including SYN cookies, rate limiting, and anti-spoofing filters.
-- [View Activity](https://github.com/JerwinUsac09/github-portfolio/tree/main/activities/network-analysis/tcp-syn-flood-analysis)
+### Network Security Hardening Assessment
+- Evaluated a simulated data breach involving weaknesses in employee authentication, database credentials, and firewall configurations.
+- Identified security gaps involving shared passwords, default administrator credentials, missing firewall rules, and the absence of multi-factor authentication.
+- Recommended security hardening measures, including MFA, stronger password policies, and inbound and outbound firewall filtering.
+- [View Activity](https://github.com/JerwinUsac09/github-portfolio/tree/main/activities/network-security-hardening-assessment)
 
 ### Website Brute-Force Attack and Malware Analysis
 
@@ -40,14 +33,20 @@ Aspiring Cybersecurity Analyst | Google Cybersecurity Professional Certificate G
 - Evaluated authentication security weaknesses and recommended preventive controls, including login throttling and multi-factor authentication.
 - [View Activity](https://github.com/JerwinUsac09/github-portfolio/tree/main/activities/network-analysis/website-brute-force-malware-analysis)
 
-  
-### Network Security Hardening Assessment
-- Evaluated a simulated data breach involving weaknesses in employee authentication, database credentials, and firewall configurations.
-- Identified security gaps involving shared passwords, default administrator credentials, missing firewall rules, and the absence of multi-factor authentication.
-- Recommended security hardening measures, including MFA, stronger password policies, and inbound and outbound firewall filtering.
-- [View Activity](https://github.com/JerwinUsac09/github-portfolio/tree/main/activities/network-security-hardening-assessment)
+### TCP SYN Flood Attack Analysis
 
+- Analyzed a simulated TCP SYN flood incident affecting a company's web server.
+- Explained the TCP three-way handshake and how half-open connections can exhaust server resources.
+- Identified mitigation strategies, including SYN cookies, rate limiting, and anti-spoofing filters.
+- [View Activity](https://github.com/JerwinUsac09/github-portfolio/tree/main/activities/network-analysis/tcp-syn-flood-analysis)
   
+### DNS and ICMP Traffic Analysis
+- Analyzed network traffic using tcpdump to investigate a DNS connectivity issue.
+- Identified ICMP Destination Unreachable messages involving UDP port 53.
+- Demonstrated understanding of DNS, UDP, ICMP, and basic network troubleshooting.
+- [View Activity](https://github.com/JerwinUsac09/github-portfolio/tree/main/activities/network-analysis/dns-icmp-traffic-analysis)
+
+
 ## 📄 Certifications and Training
 
 - Google Cybersecurity Professional Certificate
