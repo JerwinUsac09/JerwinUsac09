@@ -18,6 +18,14 @@ Aspiring Cybersecurity Analyst | Google Cybersecurity Professional Certificate G
 - Identified firewall configuration weaknesses and proposed network security improvements, detection mechanisms, incident response, and recovery measures.
 - [View Project](https://github.com/JerwinUsac09/github-portfolio/tree/main/projects/icmp-dos-incident-analysis)
 
+## 🛠️ Technical Activities
+
+### DNS and ICMP Traffic Analysis
+- Analyzed network traffic using tcpdump to investigate a DNS connectivity issue.
+- Identified ICMP Destination Unreachable messages involving UDP port 53.
+- Demonstrated understanding of DNS, UDP, ICMP, and basic network troubleshooting.
+- [View Activity](https://github.com/JerwinUsac09/github-portfolio/tree/main/activities/network-analysis/dns-icmp-traffic-analysis)
+
   
 ## 📄 Certifications and Training
 
