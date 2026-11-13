@@ -26,6 +26,12 @@ Aspiring Cybersecurity Analyst | Google Cybersecurity Professional Certificate G
 - Demonstrated understanding of DNS, UDP, ICMP, and basic network troubleshooting.
 - [View Activity](https://github.com/JerwinUsac09/github-portfolio/tree/main/activities/network-analysis/dns-icmp-traffic-analysis)
 
+### TCP SYN Flood Attack Analysis
+
+- Analyzed a simulated TCP SYN flood incident affecting a company's web server.
+- Explained the TCP three-way handshake and how half-open connections can exhaust server resources.
+- Identified mitigation strategies, including SYN cookies, rate limiting, and anti-spoofing filters.
+- [View Activity](https://github.com/JerwinUsac09/github-portfolio/tree/main/activities/network-analysis/tcp-syn-flood-analysis)
   
 ## 📄 Certifications and Training
 
