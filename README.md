@@ -71,6 +71,12 @@ Aspiring Cybersecurity Analyst | Google Cybersecurity Professional Certificate G
 - Demonstrated SQL data retrieval and filtering techniques for basic security investigations.
 - [View Activity](https://github.com/JerwinUsac09/github-portfolio/tree/main/activities/sql/apply-filters-to-sql-queries)
 
+### SQL JOINs for Security Investigations
+- Used SQL JOIN operations to combine employee, machine, and login attempt records.
+- Applied INNER JOIN, LEFT JOIN, and RIGHT JOIN to identify matching and unmatched records across database tables.
+- Investigated relationships between employee accounts, assigned devices, and login activity.
+- [View Activity](https://github.com/JerwinUsac09/github-portfolio/tree/main/activities/sql/sql-joins-for-security-investigations)
+
 ## 📄 Certifications and Training
 
 - Google Cybersecurity Professional Certificate
