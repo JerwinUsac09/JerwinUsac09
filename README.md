@@ -52,6 +52,14 @@ Aspiring Cybersecurity Analyst | Google Cybersecurity Professional Certificate G
 - Demonstrated basic command-line operations and log review.
 - [View Activity](https://github.com/JerwinUsac09/github-portfolio/tree/main/activities/linux-command-line/find-files-with-linux-commands)
 
+
+### Linux File and Directory Management
+- Practiced Linux filesystem management by creating and removing directories, moving and deleting files, and creating and modifying text files.
+- Used commands including `mkdir`, `rmdir`, `mv`, `rm`, `touch`, and `echo`.
+- Demonstrated basic filesystem organization and command-line file management.
+- [View Activity](https://github.com/JerwinUsac09/github-portfolio/tree/main/activities/linux-command-line/file-management-with-linux-commands)
+
+
 ## 📄 Certifications and Training
 
 - Google Cybersecurity Professional Certificate
