@@ -46,6 +46,11 @@ Aspiring Cybersecurity Analyst | Google Cybersecurity Professional Certificate G
 - Demonstrated understanding of DNS, UDP, ICMP, and basic network troubleshooting.
 - [View Activity](https://github.com/JerwinUsac09/github-portfolio/tree/main/activities/network-analysis/dns-icmp-traffic-analysis)
 
+### Linux File Navigation and Log Inspection
+- Used Linux commands to navigate directories, locate files, and inspect user records and server logs.
+- Practiced filesystem navigation using `cd`, `ls`, and `pwd`, and file inspection using `cat` and `head`.
+- Demonstrated basic command-line operations and log review.
+- [View Activity](https://github.com/JerwinUsac09/github-portfolio/tree/main/activities/linux-command-line/find-files-with-linux-commands)
 
 ## 📄 Certifications and Training
 
