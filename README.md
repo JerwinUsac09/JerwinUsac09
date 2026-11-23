@@ -65,6 +65,12 @@ Aspiring Cybersecurity Analyst | Google Cybersecurity Professional Certificate G
 - Demonstrated understanding of Linux permissions and the principle of least privilege.
 - [View Activity](https://github.com/JerwinUsac09/github-portfolio/tree/main/activities/linux-command-line/linux-file-permissions)
 
+### SQL Filtering for Security Investigations
+- Used SQL queries to examine login attempts and employee records from organizational databases.
+- Applied `WHERE`, `AND`, `OR`, `NOT`, and `LIKE` operators to filter records based on login time, date, country, department, and office location.
+- Demonstrated SQL data retrieval and filtering techniques for basic security investigations.
+- [View Activity](https://github.com/JerwinUsac09/github-portfolio/tree/main/activities/sql/apply-filters-to-sql-queries)
+
 ## 📄 Certifications and Training
 
 - Google Cybersecurity Professional Certificate
