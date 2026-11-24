@@ -18,6 +18,14 @@ Aspiring Cybersecurity Analyst | Google Cybersecurity Professional Certificate G
 - Identified firewall configuration weaknesses and proposed network security improvements, detection mechanisms, incident response, and recovery measures.
 - [View Project](https://github.com/JerwinUsac09/github-portfolio/tree/main/projects/icmp-dos-incident-analysis)
 
+### E-Commerce Database Server – Vulnerability Assessment
+
+- Evaluated security risks associated with a publicly accessible e-commerce database server.
+- Identified potential threats involving sensitive data exposure, unauthorized access, and operational disruption.
+- Applied likelihood and severity ratings to prioritize cybersecurity risks.
+- Recommended security improvements involving authentication, RBAC, MFA, TLS, network restrictions, and database monitoring.
+- [View Project](https://github.com/JerwinUsac09/github-portfolio/tree/main/projects/ecommerce-database-vulnerability-assessment)
+
 ## 🛠️ Technical Activities
 
 ### Network Security Hardening Assessment
