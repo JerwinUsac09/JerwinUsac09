@@ -77,6 +77,14 @@ Aspiring Cybersecurity Analyst | Google Cybersecurity Professional Certificate G
 - Investigated relationships between employee accounts, assigned devices, and login activity.
 - [View Activity](https://github.com/JerwinUsac09/github-portfolio/tree/main/activities/sql/sql-joins-for-security-investigations)
 
+### Commercial Bank – Cybersecurity Risk Assessment and Prioritization
+- Evaluated five potential cybersecurity risks affecting a simulated commercial bank.
+- Assessed risk likelihood and severity and calculated priority scores.
+- Identified publicly accessible financial records as the highest-priority risk.
+- Demonstrated risk identification, assessment, and prioritization techniques.
+- [View Activity](https://github.com/JerwinUsac09/github-portfolio/tree/main/activities/risk-assessment)
+
+
 ## 📄 Certifications and Training
 
 - Google Cybersecurity Professional Certificate
