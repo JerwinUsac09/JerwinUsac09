@@ -84,6 +84,12 @@ Aspiring Cybersecurity Analyst | Google Cybersecurity Professional Certificate G
 - Demonstrated risk identification, assessment, and prioritization techniques.
 - [View Activity](https://github.com/JerwinUsac09/github-portfolio/tree/main/activities/risk-assessment)
 
+### Linux File Decryption and Caesar Cipher Analysis
+- Used Linux commands to locate hidden files and inspect encrypted data.
+- Decoded a Caesar cipher using the `tr` command to recover decryption instructions.
+- Used OpenSSL with AES-256-CBC and PBKDF2 to decrypt an encrypted file.
+- Verified successful file recovery and demonstrated basic cryptography concepts.
+- [View Activity](https://github.com/JerwinUsac09/github-portfolio/tree/main/activities/linux-cryptography)
 
 ## 📄 Certifications and Training
 
