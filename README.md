@@ -99,6 +99,16 @@ Aspiring Cybersecurity Analyst | Google Cybersecurity Professional Certificate G
 - Verified successful file recovery and demonstrated basic cryptography concepts.
 - [View Activity](https://github.com/JerwinUsac09/github-portfolio/tree/main/activities/linux-cryptography)
 
+  
+### Incident Handler's Journal
+
+- Documented a simulated ransomware incident using the 5 W's framework.
+- Explored Wireshark and tcpdump for network traffic analysis.
+- Investigated a suspicious SHA-256 file hash using VirusTotal.
+- Reflected on incident detection, response, and the role of security analysis tools.
+- [View Journal](https://github.com/JerwinUsac09/github-portfolio/tree/main/activities/incident-handlers-journal)
+
+
 ## 📄 Certifications and Training
 
 - Google Cybersecurity Professional Certificate
