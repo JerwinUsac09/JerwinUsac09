@@ -108,6 +108,8 @@ Aspiring Cybersecurity Analyst | Google Cybersecurity Professional Certificate G
 - Reflected on incident detection, response, and the role of security analysis tools.
 - [View Journal](https://github.com/JerwinUsac09/github-portfolio/tree/main/activities/incident-handlers-journal)
 
+## 🔬 Hands-on Labs
+
 ### Suricata – Custom Rule Detection and Log Analysis
 
 - Configured a custom Suricata rule to detect HTTP GET requests in network traffic.
