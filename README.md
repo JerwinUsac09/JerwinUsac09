@@ -26,6 +26,16 @@ Aspiring Cybersecurity Analyst | Google Cybersecurity Professional Certificate G
 - Recommended security improvements involving authentication, RBAC, MFA, TLS, network restrictions, and database monitoring.
 - [View Project](https://github.com/JerwinUsac09/github-portfolio/tree/main/projects/ecommerce-database-vulnerability-assessment)
 
+## 🔬 Hands-on Labs
+
+### Suricata – Custom Rule Detection and Log Analysis
+
+- Configured a custom Suricata rule to detect HTTP GET requests in network traffic.
+- Executed Suricata against a PCAP file and generated two matching IDS alerts.
+- Examined `fast.log` and EVE JSON to investigate alert details.
+- Used `jq` to filter and extract information from structured security logs.
+- [View Lab](https://github.com/JerwinUsac09/github-portfolio/tree/main/labs/suricata-custom-rule-detection)
+
 ## 🛠️ Technical Activities
 
 ### Network Security Hardening Assessment
@@ -107,16 +117,6 @@ Aspiring Cybersecurity Analyst | Google Cybersecurity Professional Certificate G
 - Investigated a suspicious SHA-256 file hash using VirusTotal.
 - Reflected on incident detection, response, and the role of security analysis tools.
 - [View Journal](https://github.com/JerwinUsac09/github-portfolio/tree/main/activities/incident-handlers-journal)
-
-## 🔬 Hands-on Labs
-
-### Suricata – Custom Rule Detection and Log Analysis
-
-- Configured a custom Suricata rule to detect HTTP GET requests in network traffic.
-- Executed Suricata against a PCAP file and generated two matching IDS alerts.
-- Examined `fast.log` and EVE JSON to investigate alert details.
-- Used `jq` to filter and extract information from structured security logs.
-- [View Lab](https://github.com/JerwinUsac09/github-portfolio/tree/main/labs/suricata-custom-rule-detection)
 
 
 ## 📄 Certifications and Training
