@@ -118,6 +118,13 @@ Aspiring Cybersecurity Analyst | Google Cybersecurity Professional Certificate G
 - Reflected on incident detection, response, and the role of security analysis tools.
 - [View Journal](https://github.com/JerwinUsac09/github-portfolio/tree/main/activities/incident-handlers-journal)
 
+### Python – Automating IP Allow List Management
+
+- Developed a Python algorithm to compare an IP allow list against a separate remove list.
+- Used file handling, loops, conditional statements, and list operations to automate the removal of IP addresses.
+- Demonstrated basic security automation and IP-based access management.
+- [View Activity](https://github.com/JerwinUsac09/github-portfolio/tree/main/activities/python/ip-allow-list-management)
+
 
 ## 📄 Certifications and Training
 
